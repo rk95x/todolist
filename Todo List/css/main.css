@@ -1,0 +1,24 @@
+*{
+
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+body{
+
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+    background-image: url(../css/Wave.svg);
+    color:black;
+}
+
+.new-task-creator{
+    padding: 50px;
+    
+}
+
+h1{
+    font-size: 100px;
+}
